@@ -7,8 +7,8 @@ package main
 
 import (
 	"fmt"
-	zkConf "git.liebaopay.com/pigs/public/zookeeper/conf"
-	zkLeader "git.liebaopay.com/pigs/public/zookeeper/leader"
+	zkConf "github.com/928799934/zookeeper/conf"
+	zkLeader "github.com/928799934/zookeeper/leader"
 	"sync"
 	"testing"
 	"time"
